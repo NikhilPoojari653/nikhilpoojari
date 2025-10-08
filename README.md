@@ -27,7 +27,7 @@ Currently focusing on building impactful dashboards and predictive models that h
 | Project | Description | Tools Used |
 |----------|--------------|-------------|
 | **Amazon Sales Performance Analysis** | Analyzed Amazon’s product sales, category trends, and profit distribution to identify top-selling regions and growth opportunities. | Excel, SQL, Power BI |
-| **E-commerce Sales Dashboard** | Built an end-to-end sales dashboard to track revenue, profit margins, and regional performance using data-driven insights. | Excel, SQL, Power BI |
+| [**E-commerce Sales Dashboard** ](https://github.com/NikhilPoojari653/E-commerce-Sales-Customer-Insights-Dashboard)| Built an end-to-end sales dashboard to track revenue, profit margins, and regional performance using data-driven insights. | Excel, SQL, Power BI |
 | **Healthcare Appointment Optimization** | Designed a dashboard to optimize appointment scheduling and doctor resource allocation based on patient flow data. | Excel, SQL, Power BI |
 | **Loan Default Risk Dashboard** | Visualized customer credit patterns and identified high-risk borrowers using financial data. | Excel, Power BI |
 | **Home Credit Default Risk (Deep Credit Analytics)** | Advanced feature analysis on Kaggle dataset to understand credit risk patterns and payment defaults. | Power BI |
