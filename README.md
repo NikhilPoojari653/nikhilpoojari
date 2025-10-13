@@ -27,14 +27,9 @@ Currently focusing on building impactful dashboards and predictive models that h
 | Project | Description | Tools Used |
 |----------|--------------|-------------|
 | [**E-commerce Sales Dashboard** ](https://github.com/NikhilPoojari653/E-commerce-Sales-Customer-Insights-Dashboard)| Built an end-to-end sales dashboard to track revenue, profit margins, and regional performance using data-driven insights. | Excel, SQL, Power BI |
-| **Healthcare Appointment Optimization** | Designed a dashboard to optimize appointment scheduling and doctor resource allocation based on patient flow data. | Excel, SQL, Power BI |
-| **Loan Default Risk Dashboard** | Visualized customer credit patterns and identified high-risk borrowers using financial data. | Excel, Power BI |
-| **Home Credit Default Risk (Deep Credit Analytics)** | Advanced feature analysis on Kaggle dataset to understand credit risk patterns and payment defaults. | Power BI |
-| **Customer Churn Analysis** | Built a churn prediction model and dashboard to analyze retention patterns and customer satisfaction. | Python, SQL, Power BI |
-| **Netflix Churn & User Behavior Analysis** | Identified churn factors and viewing patterns among Netflix users using EDA and ML models. | Python, Power BI |
-| **HR Attrition Prediction** | Modeled employee attrition probability using classification models and built an HR insights dashboard. | Python, Power BI |
-| **Earthquake Data Analysis (SQL)** | Performed SQL-based analytics on global seismic activity to discover regional patterns and anomalies. | SQL |
-| **Climate Change Dashboard** | Cleaned and visualized 250+ years of global temperature data to reveal trends and anomalies. | Excel |
+| [**Healthcare Appointment Optimization**](https://github.com/NikhilPoojari653/Healthcare-Appointment-Resource-Optimization-Dashboard) | Designed a dashboard to optimize appointment scheduling and doctor resource allocation based on patient flow data. | Excel, SQL, Power BI |
+| [**Netflix Churn & User Behavior Analysis**](https://github.com/NikhilPoojari653/Netflix-churn-User-Behaviour-Analysis) | Identified churn factors and viewing patterns among Netflix users using EDA | Excel, SQL, Power BI |
+| [**Netflix vs Amazon Prime Video – Content Intelligence Dashboard**](https://github.com/NikhilPoojari653/Netflix-VS-Amazon-Prime-) |Explored trends in genre distribution, movie vs. TV content, ratings, and regional availability over time | Excel, Power BI |
 
 ---
 
@@ -42,8 +37,7 @@ Currently focusing on building impactful dashboards and predictive models that h
 
 - **Pendo Certified Product Analyst** 🏅  
 - **Cuvette Placement Guarantee Program – Data Science**  
-- **Data Analytics Internship – CodTech IT Solutions**  
-- *(Add any Coursera, Great Learning, or Kaggle certifications here later)*  
+- **Data Analytics Internship – CodTech IT Solutions** 
 
 ---
 
@@ -56,17 +50,9 @@ I thrive at the intersection of data and business — translating complex data i
 
 ## 📬 Let's Connect
 
-- **LinkedIn:** [Your LinkedIn Profile URL]  
-- **Email:** [Your Email ID]  
-- **GitHub:** [github.com/NikhilPoojari](#) *(replace with your actual link)*  
+- [**LinkedIn:**](http://www.linkedin.com/in/nikhilpoojari654) 
+- [**Email:**](nikhilpoojari.da@gmail.com) 
+- [**GitHub:**](https://github.com/NikhilPoojari653)
 
----
-
-## 📊 GitHub Highlights
-
-![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=default)
-
----
 
 ⭐ *“Turning raw data into powerful business stories.”*
