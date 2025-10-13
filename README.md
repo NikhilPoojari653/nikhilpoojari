@@ -50,8 +50,8 @@ I thrive at the intersection of data and business — translating complex data i
 
 ## 📬 Let's Connect
 
-- [**LinkedIn:**](http://www.linkedin.com/in/nikhilpoojari654) 
-- [**Email:**](nikhilpoojari.da@gmail.com) 
+- [**LinkedIn:**](http://www.linkedin.com/in/nikhilpoojari654)
+- [**Email:**](mailto:nikhilpoojari.da@gmail.com)
 - [**GitHub:**](https://github.com/NikhilPoojari653)
 
 
