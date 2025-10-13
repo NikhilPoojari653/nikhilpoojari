@@ -22,7 +22,7 @@ Currently focusing on building impactful dashboards and predictive models that h
 
 ---
 
-## 🚀 Projects
+## 🚀End-to-End Projects
 
 | Project | Description | Tools Used |
 |----------|--------------|-------------|
